@@ -24,7 +24,7 @@ jobs:
       - name: Build debug APK
         run: ./gradlew assembleDebug -Xmx4096m
         env:
-  org_gradle_jvmargs: -Xmx4096m -Xms1024m
+           org_gradle_jvmargs: -Xmx4096m -Xms1024m
 
       - name: Upload APK
         uses: actions/upload-artifact@v4
