@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Brand palette -->
+    <color name="brand_primary">#6C63FF</color>
+    <color name="brand_primary_dark">#4A44CC</color>
+    <color name="brand_secondary">#03DAC6</color>
+    <color name="brand_surface">#1A1A2E</color>
+    <color name="brand_surface_variant">#16213E</color>
+    <color name="brand_background">#0F0F1A</color>
+    <color name="brand_on_surface">#E8E8F0</color>
+    <color name="brand_on_surface_variant">#9090A8</color>
+    <color name="brand_error">#FF6B6B</color>
+    <color name="brand_success">#4CAF50</color>
+    <color name="brand_warning">#FFC107</color>
+
+    <!-- Bubble colors -->
+    <color name="bubble_user_start">#6C63FF</color>
+    <color name="bubble_user_end">#4A44CC</color>
+    <color name="bubble_ai_surface">#1E1E30</color>
+    <color name="bubble_tool_surface">#0D2137</color>
+    <color name="bubble_tool_border">#1565C0</color>
+</resources>

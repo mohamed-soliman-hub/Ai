@@ -1,0 +1,29 @@
+# Android/Gradle
+.gradle/
+build/
+local.properties
+*.iml
+.idea/
+*.hprof
+captures/
+.externalNativeBuild/
+.cxx/
+*.apk
+*.aab
+*.dex
+*.class
+*.ap_
+*.jks
+*.keystore
+
+# Generated
+app/src/main/assets/
+app/google-services.json
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Secrets (NEVER commit API keys)
+secrets.properties
+api_keys.properties

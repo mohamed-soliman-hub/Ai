@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">AI Phone Agent</string>
+    <string name="accessibility_service_label">AI Phone Agent Control</string>
+    <string name="accessibility_service_description">Allows AI Phone Agent to control your device by tapping, scrolling, and reading screen content to execute your commands.</string>
+
+    <!-- Chat -->
+    <string name="chat_hint">Ask me anything…</string>
+    <string name="chat_welcome_title">Hello! I'm your AI Phone Agent</string>
+    <string name="chat_welcome_subtitle">I can manage files, control apps, analyze images, and execute complex tasks — just ask.</string>
+
+    <!-- Settings -->
+    <string name="settings_title">Settings</string>
+    <string name="settings_provider">AI Provider</string>
+    <string name="settings_api_key">API Key</string>
+    <string name="settings_model">Model</string>
+    <string name="settings_sandbox">Sandbox Mode</string>
+    <string name="settings_sandbox_desc">Restrict file operations to a selected folder</string>
+    <string name="settings_working_folder">Working Folder</string>
+    <string name="settings_accessibility">Accessibility Service</string>
+    <string name="settings_accessibility_desc">Enable to allow app control (required for opening apps, tapping, scrolling)</string>
+
+    <!-- Macros -->
+    <string name="macros_title">Macros</string>
+    <string name="macros_empty">No macros yet. Record one to get started!</string>
+    <string name="macro_record">Record Macro</string>
+    <string name="macro_play">Play</string>
+
+    <!-- Permissions -->
+    <string name="permission_storage_title">Storage Access</string>
+    <string name="permission_storage_desc">Required to manage your files</string>
+    <string name="permission_accessibility_title">Accessibility Service</string>
+    <string name="permission_accessibility_desc">Required to control apps on your behalf</string>
+
+    <!-- Errors -->
+    <string name="error_no_api_key">No API key configured. Go to Settings to add one.</string>
+    <string name="error_network">Network error. Please check your connection.</string>
+    <string name="error_provider">AI provider error. Please check your API key.</string>
+    <string name="error_file_not_found">File not found.</string>
+    <string name="error_permission_denied">Permission denied.</string>
+    <string name="error_generic">Something went wrong. Please try again.</string>
+
+    <!-- Onboarding -->
+    <string name="onboarding_skip">Skip</string>
+    <string name="onboarding_next">Next</string>
+    <string name="onboarding_get_started">Get Started</string>
+    <string name="onboarding_step1_title">Control your phone with words</string>
+    <string name="onboarding_step1_desc">AI Phone Agent understands natural language and executes complex multi-step tasks on your device.</string>
+    <string name="onboarding_step2_title">Choose your AI provider</string>
+    <string name="onboarding_step2_desc">Connect your own OpenAI, Anthropic, Google Gemini, or OpenRouter API key. Your keys stay on-device — encrypted.</string>
+    <string name="onboarding_step3_title">Stay in control</string>
+    <string name="onboarding_step3_desc">Sandbox mode restricts file access to a folder you choose. Accessibility service can be revoked at any time.</string>
+</resources>

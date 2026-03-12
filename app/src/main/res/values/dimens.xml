@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="padding_xs">4dp</dimen>
+    <dimen name="padding_sm">8dp</dimen>
+    <dimen name="padding_md">16dp</dimen>
+    <dimen name="padding_lg">24dp</dimen>
+    <dimen name="padding_xl">32dp</dimen>
+    <dimen name="corner_sm">8dp</dimen>
+    <dimen name="corner_md">16dp</dimen>
+    <dimen name="corner_lg">24dp</dimen>
+    <dimen name="bubble_max_width_fraction">0.82</dimen>
+</resources>
